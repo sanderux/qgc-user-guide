@@ -10,7 +10,6 @@
   * [Survey](PlanView/Survey.md)
 * [Setup](SetupView/SetupView.md)
   * [Firmware](SetupView/Firmware.md)
-  * [Airframe](SetupView/Airframe.md)
   * [Radio](SetupView/Radio.md)
   * [Sensors](SetupView/Sensors.md)
   * [Flight Modes](SetupView/FlightModes.md)
