@@ -22,7 +22,7 @@
 * [Settings](SettingsView/SettingsView.md)
   * [General](SettingsView/General.md)
   * [Offline Maps](SettingsView/OfflineMaps.md)
-  * [Virtual Joystick \(PX4\)](SettingsView/VirtualJoystick.md)
+  * [Virtual Joystick](SettingsView/VirtualJoystick.md)
 * [Releases](releases/README.md)
   * [Release Notes](releases/release_notes.md)
     * [v3.2 \(Detailed\)](releases/stable_v3.2_long.md)
