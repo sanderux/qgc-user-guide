@@ -9,10 +9,8 @@ To access this section, select the **Gear** icon (Vehicle Setup) in the top tool
 <span></span>
 > **Tip** Flight modes provide different levels of *autopilot-assisted flight*, and *fully autonomous flight* via missions or offboard (API-based) control. Different flight modes allow new users to learn flying with a more forgiving platform than provided by basic RC control alone. They also enable automation of common tasks like taking off, landing and returning to the original launch position.
 > <div></div>
-> For more information about the flight modes on each platform see:
+> For more information about the flight modes see:
 > * [PX4 Flight Modes](https://docs.px4.io/en/flight_modes/)
-> * [ArduCopter Flight Modes](http://ardupilot.org/copter/docs/flight-modes.html)
-> * [ArduPlane Flight Modes](http://ardupilot.org/plane/docs/flight-modes.html)
 
 
 ## PX4 Pro Flight Mode Setup
