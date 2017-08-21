@@ -1,6 +1,5 @@
 # Offline Maps
 
-
 ![](/assets/offline maps.jpg)
 Offline Maps allows you to cache map tiles for use when not connected to the internet. You can create multiple offline sets, each for a different location.
 
