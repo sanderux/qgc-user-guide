@@ -6,7 +6,7 @@ Offline Maps allows you to cache map tiles for use when not connected to the int
 
 ## Add new set
 To create a new offline map set, click "Add new set". Which will take you to this page:
-![](/assets/addnewset.jpg)
+
 ![](/assets/addnewset.jpg)
 
 From here you can name you set as well as specify the zoom levels you want to cache. Move the map to the position you can to cache and then set the zoom levels and click Download to cache the tiles.
