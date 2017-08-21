@@ -39,21 +39,6 @@ To set the orientation(s) on PX4:
 1. Press **OK**.
 
 
-### Sensor Settings (ArduPilot)
-
-To set the orientation(s) on ArduPilot:
-
-1. Select the **Sensor Settings** button.
-
-   <img src="../../images/setup/sensor_orientation_sensor_settings.jpg" style="width: 600px;"/>
-
-1. Select the **AutoPilot Orientation**.
-
-1. Select the *orientation* from **Compass 1 (primary/external) > Orientation** (or check **Compass2 (secondary, external) > Use Compass** to instead use the internal compass).
-
-1. Press **OK**.
-
-
 
 ## Compass
 
