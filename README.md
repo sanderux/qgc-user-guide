@@ -5,7 +5,7 @@
 **Key Features:**
 
 * Full setup/configuration.
-* Flight support for vehicles running PX4 and ArduPilot (or any other autopilot that communicates using the MAVLink protocol).
+* Flight support.
 * Mission planning for autonomous flight.
 * Flight map display showing vehicle position, flight track, waypoints and vehicle instruments.
 * Video streaming with instrument display overlays.
@@ -14,7 +14,3 @@
 
 ![](./images/quickstart/ConnectedVehicle.jpg)
 
-> **Note** This guide is an active work in progress. The information provided should be correct, but you may find missing information or incomplete pages.
-
-<span></span>
-> **Tip** Information about QGroundControl architecture and development can be found in the [Developers Guide](https://dev.qgroundcontrol.com/en/).
