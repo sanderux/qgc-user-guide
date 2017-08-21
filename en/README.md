@@ -11,6 +11,4 @@
 * Video streaming with instrument display overlays.
 * Support for managing multiple vehicles.
 * QGC runs on Windows, OS X, Linux platforms, iOS and Android devices.
-
-
-![](../images/quickstart/ConnectedVehicle.jpg)
+![](/assets/ConnectedVehicle.jpg)
