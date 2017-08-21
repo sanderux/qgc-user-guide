@@ -17,8 +17,6 @@ The following icons are used to switch between the main *Views*. These are displ
 
 ![](../../images/quickstart/FlyViewButton.jpg) **[Fly](../FlyView/FlyView.md)**
 <br>Monitor you vehicle(s) while flying, including streaming video.
-
-![](../../images/quickstart/toolbar_view_analyse.jpg) **Analyse**
 <br>Download logs, geotag images from a survey mission, access the mavlink console.
 
 
