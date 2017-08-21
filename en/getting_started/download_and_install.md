@@ -59,11 +59,3 @@ Install *QGroundControl* for iOS 8.0 or later:
 
 1. Follow the instructions for [Installing iOS Daily Beta using Test Flight](../releases/daily_builds.md#installing-ios-beta-using-test-flight).
 
-
-## Old Stable Releases
-
-Old stable releases can be found on <a href="https://github.com/mavlink/qgroundcontrol/releases/" target="_blank">GitHub</a>. 
-
-## Daily Builds
-
-Daily builds can be [downloaded from here](../releases/daily_builds.md).
