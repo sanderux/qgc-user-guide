@@ -15,7 +15,6 @@
   * [Flight Modes](SetupView/FlightModes.md)
   * [Power](SetupView/Power.md)
   * [Safety](SetupView/Safety.md)
-  * [Tuning](SetupView/Tuning.md)
   * [Camera](SetupView/Camera.md)
   * [Joystick \(PX4\)](SetupView/Joystick.md)
   * [Parameters](SetupView/Parameters.md)

@@ -76,7 +76,6 @@ To configure flight modes using the multi-channel UI:
 1. Click the **Generate Thresholds** button. 
    * This will automatically create threshold values for all modes, spread evenly across each channel for its assigned modes. For example, in the mode assignment shown above, most modes are assigned to mode 5, and you can see that the channel thresholds for each mode are spread evenly across the channel. 
 
-This mode is demonstrated in the [PX4 setup video @6m53s](https://youtu.be/91VGmdSlbo4?t=6m53s) (youtube).
 
 > **Note** This flight mode selection mechanism is relatively complicated due to the way that PX4 works out which mode should be selected. You may be able to gain some insight from this [flow chart](https://dev.px4.io/en/concept/flight_modes.html#flight-mode-evaluation-diagram) (PX4 Developer Guide).
 
