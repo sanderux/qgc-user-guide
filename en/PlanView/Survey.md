@@ -2,8 +2,7 @@
 
 A survey allows you to create a grid flight pattern over a polygonal area. You can specify the polygon as well as the specifications for the grid and camera settings appropriate for creating geotagged images.
 
-![](../../images/plan/Survey.jpg)
-
+![](/assets/Survey.jpg)
 To draw the polygon for your survey, click the "Draw" button and click in the map to set polygon vertices.
 
 There are multiple options for a survey grid. You can select the main option from the dropdown at the top of the editor.
