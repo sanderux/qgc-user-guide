@@ -8,7 +8,7 @@
 
 * Full setup/configuration.
 * Flight support.
-* Mission planning for autonomous flight.
+* Mission planning for autonomous.
 * Flight map display showing vehicle position, flight track, waypoints and vehicle instruments.
 * Video streaming with instrument display overlays.
 * Support for managing multiple vehicles.
