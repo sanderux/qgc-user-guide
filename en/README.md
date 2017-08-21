@@ -6,8 +6,8 @@
 
 **Key Features:**
 
-* Full setup/configuration of ArduPilot and PX4 Pro powered vehicles.
-* Flight support for vehicles running PX4 and ArduPilot (or any other autopilot that communicates using the MAVLink protocol).
+* Full setup/configuration.
+* Flight support.
 * Mission planning for autonomous flight.
 * Flight map display showing vehicle position, flight track, waypoints and vehicle instruments.
 * Video streaming with instrument display overlays.
