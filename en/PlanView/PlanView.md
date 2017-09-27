@@ -27,8 +27,6 @@ On the left edge of the screen you will see the Plan Tools. The order of tools f
 
 Click to activate the Add Commands tool. While active, clicking in the map will add new mission commands at the clicked location. The tool will stay active until you click it again.
 
-
-
 * The first waypoint will need to be a VTOL takeoff command. 
 
 ### Sync
@@ -42,10 +40,6 @@ The Sync tool provides the following functionality:
 * Save to File
 * Load from File
 * Remove All
-
-### Survey
-
-[Survey](Survey.md) allows you to fly a grid pattern over a polygonal area.
 
 ## Mission Command List
 
