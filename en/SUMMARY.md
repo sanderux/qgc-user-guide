@@ -4,9 +4,8 @@
 * [Quick Start](getting_started/quick_start.md)
 * [Download and Install](getting_started/download_and_install.md)
 * [Toolbar/Menu](toolbar/toolbar.md)
-* [Fly](FlyView/FlyView.md)
 * [Plan](PlanView/PlanView.md)
-  * [Survey](PlanView/Survey.md)
+* [Fly](FlyView/FlyView.md)
 
 ## Dronecode Shortcuts
 
