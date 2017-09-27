@@ -1,9 +1,7 @@
 # Plan View
 
-![](/assets/Plan.jpg)
+![](/assets/Plan.jpg)  
 The Plan View is used to plan autonomous missions for you Vehicle. Once the mission is planned and sent to the vehicle, you switch to the [Fly View](../FlyView/FlyView.md) to fly the mission.
-
-If your Vehicle supports a [GeoFence](PlanGeoFence.md) or [Rally Points](PlanRallyPoints.md) you can also set those up from the Plan View.
 
 The image above shows a simple mission which starts with a takeoff, flies through two waypoints and then lands.
 
@@ -15,6 +13,7 @@ The steps to creating a missions are:
 4. Change to Fly View and fly your mission
 
 ## Plan Tools
+
 On the left edge of the screen you will see the Plan Tools. The order of tools from top to bottom is:
 
 * Add Commands
@@ -25,10 +24,16 @@ On the left edge of the screen you will see the Plan Tools. The order of tools f
 * Zoom In/Out
 
 ### Add Commands
+
 Click to activate the Add Commands tool. While active, clicking in the map will add new mission commands at the clicked location. The tool will stay active until you click it again.
 
+
+
+* The first waypoint will need to be a VTOL takeoff command. 
+
 ### Sync
-The Sync tools allows you to move Missions back and forth to your Vehicle or a file. *Before you fly a mission you must be sure to send your Mission to your vehicle.* The tool will change to have an "!" within it to indicate that you have changes to your Mission which you have not sent to your vehicle. 
+
+The Sync tools allows you to move Missions back and forth to your Vehicle or a file. _Before you fly a mission you must be sure to send your Mission to your vehicle._ The tool will change to have an "!" within it to indicate that you have changes to your Mission which you have not sent to your vehicle.
 
 The Sync tool provides the following functionality:
 
@@ -61,3 +66,4 @@ In the center of the map you will see a visualization of your current mission. Y
 ## Mission Height Display
 
 At the bottom of the map you will see a representation of the height differences between your mission commands. To the left of that is information for the currently selected command relative to the previous command. For example: Distance from previous waypoint.
+
