@@ -29,13 +29,23 @@ Click to activate the Add Commands tool. While active, clicking in the map will 
 
 * The first waypoint will be a VTOL takeoff command. This waypoint will be the postion the Deltquad flies to **after **it has ascended vertically to the altitude defined in ths first way point. IE if the fist waypoint is set at 30 meters and 2Km north of the current postion, the Deltaquad will ascend to 30 meters, transition to forward flighand proceed 2Km north.
 
-
-
-1.  Select add waypont button.
+1. Select add waypont button.
 2. Click on the map for desired postion.
 3. Set the Altitude.
 
 ![](/assets/plan1.jpg)
+
+* Set intermediate waypoints. The Deltaquad wiil proceed to these waypoints continuing in fixed-wing mode
+
+1. Click the 
+
+
+
+
+
+### 
+
+### 
 
 ### Sync
 
