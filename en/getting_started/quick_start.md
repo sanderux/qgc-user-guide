@@ -13,8 +13,6 @@ That's it! If the vehicle is ready to fly,  _QGroundControl_ should display [Fly
 A good way to become familiar with _QGroundControl_ is to start experimenting:
 
 * Use the [toolbar](../toolbar/toolbar.md) to switch between the main views:
-  * [Settings](../SettingsView/SettingsView.md): Configure the _QGroundControl_ application.
-  * [Setup](../SetupView/SetupView.md): Configure and tune your vehicle.
   * [Plan](../PlanView/PlanView.md): Create autonomous missions.
   * [Fly](../FlyView/FlyView.md): Monitor you vehicle\(s\) while flying, including streaming video.
 * Click the _Status icons_ on the toolbar to find out the status of the connected vehicle. 
