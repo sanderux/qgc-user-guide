@@ -31,21 +31,35 @@ Click to activate the Add Commands tool. While active, clicking in the map will 
 
 * Select add waypont button.
 
-* Click on the map for desired postion.
+* Click on the map to set desired postion.
+
 * Set the Altitude.
 
 ![](/assets/plan1.jpg)
 
-## Set intermediate waypoints. 
+## Set intermediate waypoints.
 
 The Deltaquad wiil proceed to these waypoints continuing in fixed-wing mode
 
-* Click on the map for desired postion.
+* Click on the map to select desired postion.
 * Set the Altitude.
 
 ### ![](/assets/plan2.jpg)
 
+### 
 
+### Set landing waypoint
+
+* Click on the map to select desired postion.
+
+* Change the mission item to a VTOL land command
+
+1. Select the drop-down menu icon on the last mission item \(waypoint\) ![](/assets/plan3.jpg)
+2. choose category VTOL
+3. select VTOL transition and land
+4. set altitude. This is the altitude the Deltaquad will maintain up to the landing waypoint and before transitioing to vertical descent. IE it should **not **be set to zero.
+
+![](/assets/plan4.jpg)
 
 
 
@@ -80,4 +94,6 @@ In the center of the map you will see a visualization of your current mission. Y
 ## Mission Height Display
 
 At the bottom of the map you will see a representation of the height differences between your mission commands. To the left of that is information for the currently selected command relative to the previous command. For example: Distance from previous waypoint.
+
+![](/assets/plan5.jpg)
 
