@@ -27,7 +27,11 @@ On the left edge of the screen you will see the Plan Tools. The order of tools f
 
 Click to activate the Add Commands tool. While active, clicking in the map will add new mission commands at the clicked location. The tool will stay active until you click it again.
 
-* The first waypoint will need to be a VTOL takeoff command. 
+* The first waypoint will need to be a VTOL takeoff command. This waypoint will be the postion the Deltquad flies to **after **it has ascended vertically to the altitude defined in ths first way point. IE if the fist waypoint is set at 30 meters and 2Km north of the current postion, the Deltaquad will ascend to 30 meters, transition to forward flighand proceed 2Km north.
+
+
+
+
 
 ### Sync
 
