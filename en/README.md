@@ -1,6 +1,6 @@
 # QGroundControl User Guide
 
-*QGroundControl* provides full flight control and vehicle setup for PX4 or ArduPilot powered vehicles. It provides easy and straightforward usage for beginners, while still delivering high end feature support for experienced users.
+_QGroundControl_ provides full flight control and vehicle setup for your Deltaquad. It provides easy and straightforward usage for beginners, while still delivering high end feature support for experienced users.
 
 **Key Features:**
 
@@ -11,4 +11,7 @@
 * Video streaming with instrument display overlays.
 * Support for managing multiple vehicles.
 * QGC runs on Windows, OS X, Linux platforms, iOS and Android devices.
-![](/assets/ConnectedVehicle.jpg)
+  ![](/assets/ConnectedVehicle.jpg)
+
+
+
